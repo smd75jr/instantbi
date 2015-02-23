@@ -18,27 +18,15 @@ body {
     width: 100%;
 
 }
-#Rainbow #red {
-    background-color: #FF0000;
+#Rainbow #pink {
+    background-color: #D60270;
 
 }
-#Rainbow #orange {
-    background-color: #FF8000;
-
-}
-#Rainbow #yellow {
-    background-color: #FFFF00;
-
-}
-#Rainbow #green {
-    background-color: #008000;
+#Rainbow #purple {
+    background-color: #9B4F96;
 
 }
 #Rainbow #blue {
-    background-color: #0000FF;
-
-}
-#Rainbow #violet {
-    background-color: #A000C0;
+    background-color: #0038A8;
 
 }
